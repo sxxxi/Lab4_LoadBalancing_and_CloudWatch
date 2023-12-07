@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee066693-d575-4b93-bfff-3d931305ba4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locals.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/bucket/bucket.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/bucket/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/load_balancing/load_balancing.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/load_balancing/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/route_tables/route_tables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/route_tables/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/security_groups/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/security_groups/security_groups.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/security_groups/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/subnet/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/subnet/subnet.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/subnet/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/vpc/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/vpc/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/vpc/vpc.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/web_user_data.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusL4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BonusL4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature",
     "last_opened_file_path": "/Users/seiji/School/S6/cloud/teraform/BonusL4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
